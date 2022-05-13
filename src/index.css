@@ -12,6 +12,9 @@ code {
     monospace;
 }
 
+.personB {
+  background-color: purple;
+}
 .personA {
   color: whitesmoke
 }
